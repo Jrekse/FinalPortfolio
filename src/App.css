@@ -1,3 +1,45 @@
+.navbar{
+  background-color: rgb(166, 177, 225) ;
+}
+.head{
+  background-color: rgb(220, 214, 247) ;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.foot{
+  padding-top: 10px;
+  background-color:rgb(78, 76, 103);
+}
+.foottext{
+  color: white;
+}
+.aboutMeDiv{
+  background-color: rgb(180, 134, 159);
+  height: 610px;
+  padding-top: 20px;
+}
+.meCard{
+  width: 100%;
+  background-color: rgb(152, 95, 111);
+  border-radius: 25px;
+}
+.contactCard{
+  width: 100%;
+  background-color: rgb(152, 95, 111);
+  color: white;
+}
+.cardbtn{
+  background-color: rgb(78, 76, 103);
+  color:white;
+}
+.me{
+  max-height:350px ;
+  border-radius: 25px;
+}
+
+
+
+
 .App {
   text-align: center;
 }
