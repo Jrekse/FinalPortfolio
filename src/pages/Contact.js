@@ -8,16 +8,16 @@ function Contact(){
                 <div className="col-4">
                 </div>
                 <div className="col-4">
-                    <div class="card text-center">
-                        <div class="card-header cardbtn">
+                    <div className="card text-center">
+                        <div className="card-header cardbtn">
                             Contact Info
                         </div>
-                        <div class="card-body contactCard">
-                            <h5 class="card-title">Special title treatment</h5>
-                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                            <a href="/" class="btn btn-primary cardbtn">Go somewhere</a>
+                        <div className="card-body contactCard">
+                            <h5 className="card-title">Special title treatment</h5>
+                            <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                            <a href="/" className="btn btn-primary cardbtn">Go somewhere</a>
                         </div>
-                        <div class="card-footer cardbtn">
+                        <div className="card-footer cardbtn">
                             2 days ago
                         </div>
                     </div>  
