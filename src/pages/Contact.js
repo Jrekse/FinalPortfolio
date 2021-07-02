@@ -13,12 +13,17 @@ function Contact(){
                             Contact Info
                         </div>
                         <div className="card-body contactCard">
-                            <h5 className="card-title">Special title treatment</h5>
-                            <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                            <a href="/" className="btn btn-primary cardbtn">Go somewhere</a>
+                            <p className="card-text">Phone: (503)-791-9996</p>
+                            <p className="card-text btn btn-primary">Email: Jrekse@gmail.com</p>
+                            <br/>
+                            <p className="card-text btn btn-primary">Github: </p>
+                            <br/>
+                            <p className="card-text btn btn-primary">StackOverflow: </p>
+                            <br/>
+                            <p className="card-text btn btn-primary">Linkdin: </p>
                         </div>
                         <div className="card-footer cardbtn">
-                            2 days ago
+                            Dont be shy
                         </div>
                     </div>  
                 </div>
